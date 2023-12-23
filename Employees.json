@@ -1,0 +1,31 @@
+{
+  "Employees": [
+    {
+      "empID": "1",
+      "empjobTitle": "Software Engineer",
+      "firstName": "Toni",
+      "lastName": "Quaill",
+      "region": "US",
+      "mobileNumber": "121-121-121",
+      "emailID": "toni.test@gmail.com"
+    },
+    {
+      "empID": "2",
+      "empjobTitle": "Marketer",
+      "firstName": "King",
+      "lastName": "Penn",
+      "region": "US",
+      "mobileNumber": "122-122-122",
+      "emailID": "king.test@gmail.com"
+    },
+    {
+      "empID": "3",
+      "empjobTitle": "Business Analyst",
+      "firstName": "Rob",
+      "lastName": "Ched",
+      "region": "US",
+      "mobileNumber": "123-123-123",
+      "emailID": "rob.test@gmail.com"
+    }
+  ]
+}
