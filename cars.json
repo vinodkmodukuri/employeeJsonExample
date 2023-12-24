@@ -1,0 +1,28 @@
+{
+    "cars":[
+        {
+            "carID": 1,
+            "make": "2016",
+            "brand": "Honda",
+            "model": "Accord Sport",
+            "Transmission": "Automatic",
+            "Color": "Black"
+        },
+         {
+            "carID": 2,
+            "make": "2017",
+            "brand": "Jeep",
+            "model": "Wangler",
+            "Transmission": "Automatic",
+            "Color": "White"
+        },
+           {
+            "carID": 3,
+            "make": "2018",
+            "brand": "BMW",
+            "model": "250 I",
+            "Transmission": "Automatic",
+            "Color": "Black"
+        }
+    ]    
+}
